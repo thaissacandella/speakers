@@ -6,9 +6,7 @@
 
 Nome: Rodrigo Botti
 
-Ocupação: Full Stack Developer
-
-Empresa: [Nexa Digital](https://www.linkedin.com/company/nexadigital/)
+Ocupação: Full Stack Developer @ [Nexa Digital](https://www.linkedin.com/company/nexadigital/)
 
 Tags: Backend, Nodejs, Devops, Microservice
 
@@ -20,9 +18,7 @@ Contatos:
 
 Nome: Everton Gago
 
-Ocupação: Especialista em Ciência de Dados
-
-Empresa: [Dextra](https://dextra.com.br/pt/)
+Ocupação: Especialista em Ciência de Dados @ [Dextra](https://dextra.com.br/pt/)
 
 Tags: Intelilgência Articial, Machine Learning, Deep Learning, Data Science
 
