@@ -19,7 +19,7 @@ Contato:
 
 Nome: Keila Menezes
 
-Ocupação: Senior Software Development Consultant at ThoughtWorks
+Ocupação: Senior Software Development Consultant @ ThoughtWorks
 
 Tags: GDE, Angular, Frontend Web
 
