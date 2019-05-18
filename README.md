@@ -22,5 +22,5 @@ Ocupação: Especialista em Ciência de Dados @ [Dextra](https://dextra.com.br/p
 
 Tags: Intelilgência Articial, Machine Learning, Deep Learning, Data Science
 
-Contatos: 
+Contato: 
 - [GitHub](https://github.com/evertongago)
