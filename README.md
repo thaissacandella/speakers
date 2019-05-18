@@ -10,11 +10,7 @@ Ocupação: Full Stack Developer
 
 Empresa: [Nexa Digital](https://www.linkedin.com/company/nexadigital/)
 
-Tags: 
-- Backend 
-- Nodejs 
-- Devops 
-- Microservice
+Tags: Backend, Nodejs, Devops, Microservice
 
 Contatos: 
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-botti/)
@@ -28,11 +24,7 @@ Ocupação: Especialista em Ciência de Dados
 
 Empresa: Dextra
 
-Tags: 
-- Intelilgência Articial 
-- Machine Learning 
-- Deep Learning
-- Data Science
+Tags: Intelilgência Articial, Machine Learning, Deep Learning, Data Science
 
 Contatos: 
 - [GitHub](https://github.com/evertongago)
