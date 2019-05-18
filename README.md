@@ -32,7 +32,7 @@ Nome: Maurício Maujor
 
 Ocupação: Divulgador dos Padrões Web
 
-Tags: CSS, HTML
+Tags: CSS, HTML, Javascript
 
 Contatos: 
 - [LinkedIn](https://www.linkedin.com/in/mauricio-maujor-800111a3/)
