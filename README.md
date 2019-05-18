@@ -22,7 +22,7 @@ Nome: Everton Gago
 
 Ocupação: Especialista em Ciência de Dados
 
-Empresa: Dextra
+Empresa: [Dextra](https://dextra.com.br/pt/)
 
 Tags: Intelilgência Articial, Machine Learning, Deep Learning, Data Science
 
