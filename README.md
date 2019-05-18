@@ -26,3 +26,14 @@ Tags: Intelilgência Articial, Machine Learning, Deep Learning, Data Science
 
 Contato: 
 - [GitHub](https://github.com/evertongago)
+
+---
+
+Nome: Keila Menezes
+
+Ocupação:
+
+Tags: Angular, Frontend Web
+
+Contato:
+- [LinkedIn](https://www.linkedin.com/in/keilla-menezes/)
