@@ -6,45 +6,45 @@
 
 ## City: Campinas - SP 
 
-Nome: Everton Gago
+Name: Everton Gago
 
-Ocupação: Especialista em Ciência de Dados @ [Dextra](https://dextra.com.br/pt/)
+Occupation: Especialista em Ciência de Dados @ [Dextra](https://dextra.com.br/pt/)
 
 Tags: Intelilgência Articial, Machine Learning, Deep Learning, Data Science
 
-Contato: 
+Contact: 
 - [GitHub](https://github.com/evertongago)
 
 ---
 
-Nome: Keila Menezes
+Name: Keila Menezes
 
-Ocupação: Senior Software Development Consultant @ ThoughtWorks
+Occupation: Senior Software Development Consultant @ ThoughtWorks
 
 Tags: GDE, Angular, Frontend Web
 
-Contato:
+Contact:
 - [LinkedIn](https://www.linkedin.com/in/keilla-menezes/)
 
 ## City: Rio de Janeiro - SP
 
-Nome: Maurício Maujor
+Name: Maurício Maujor
 
-Ocupação: Divulgador dos Padrões Web
+Occupation: Divulgador dos Padrões Web
 
 Tags: CSS, HTML, Javascript
 
-Contatos: 
+Contact: 
 - [LinkedIn](https://www.linkedin.com/in/mauricio-maujor-800111a3/)
 
 ## City: São Paulo - SP
 
-Nome: Rodrigo Botti
+Name: Rodrigo Botti
 
-Ocupação: Full Stack Developer @ [Nexa Digital](https://www.linkedin.com/company/nexadigital/)
+Occupation: Full Stack Developer @ [Nexa Digital](https://www.linkedin.com/company/nexadigital/)
 
 Tags: Backend, Nodejs, Devops, Microservice
 
-Contatos: 
+Contact: 
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-botti/)
 - rodrigo.botti@gmail.com
