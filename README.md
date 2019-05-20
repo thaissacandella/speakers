@@ -51,6 +51,17 @@ Contact:
 
 ---
 
+Name: Carla De Bona
+
+Occupation: UX/UI Consultant @ Bona Criação + Co-Founder @ [{reprograma}](https://www.linkedin.com/company/reprogramabr/)
+
+Tags: UX, UI, Design Thinking
+
+Contact: 
+- [LinkedIn](https://www.linkedin.com/in/carladebona/)
+
+---
+
 Name: Roberta Arcoverde
 
 Occupation: Principal Software Developer @ [Stack Overflow](https://www.linkedin.com/company/stack-overflow/)
