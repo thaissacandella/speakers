@@ -50,9 +50,16 @@ Contact:
 - rodrigo.botti@gmail.com
 
 
+---
 
+Name: Carla De Bona
 
+Occupation: UX/UI Consultant @ Bona Criação + Co-Founder @ [{reprograma}](https://www.linkedin.com/company/reprogramabr/)
 
+Tags: UX, UI, Design Thinking
+
+Contact: 
+- [LinkedIn](https://www.linkedin.com/in/carladebona/)
 
 
 ---
