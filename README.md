@@ -56,13 +56,20 @@ Contact:
 
 
 ---
+# ABOUT
 We want to provide a simple way to connect experienced and new speakers with communities and event organizers (especially event and communities related with tech)
 
 If you would like to contribute by adding a speaker that you know is good or want to add yourself, follow the instructions below.
 
+## Instructions
+
 Find in the list the Country, State and City that the speaker currently lives in and add in the section as this template:
 
+
 Name: (full name)
+
 Occupation: (what his/her/you do @ company name)
+
 Tags: (topics the speaker talks about or is interested to talk about)
+
 Contact: (please, don't put private contact information (such as phone numbers), just professional contact information (such as linkedin))
