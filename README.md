@@ -49,7 +49,6 @@ Contact:
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-botti/)
 - rodrigo.botti@gmail.com
 
-
 ---
 
 Name: Carla De Bona
@@ -61,6 +60,16 @@ Tags: UX, UI, Design Thinking
 Contact: 
 - [LinkedIn](https://www.linkedin.com/in/carladebona/)
 
+---
+
+Name: Roberta Arcoverde
+
+Occupation: Principal Software Developer @ [Stack Overflow](https://www.linkedin.com/company/stack-overflow/)
+
+Tags: Backend, .NET, Architecture
+
+Contact: 
+- [LinkedIn](https://www.linkedin.com/in/robertaarcoverde/)
 
 ---
 # ABOUT
