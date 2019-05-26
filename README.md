@@ -71,11 +71,7 @@ Tags: Backend, .NET, Architecture
 Contact: 
 - [LinkedIn](https://www.linkedin.com/in/robertaarcoverde/)
 
----
-
 ## City: Curitiba - PR
-
----
 
 Name: Patrick Stival Chaerke
 
