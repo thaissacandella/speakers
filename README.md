@@ -73,7 +73,7 @@ Contact:
 
 ---
 
-## City: Curitiba - SP
+## City: Curitiba - PR
 
 ---
 
