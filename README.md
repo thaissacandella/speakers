@@ -72,6 +72,18 @@ Contact:
 - [LinkedIn](https://www.linkedin.com/in/robertaarcoverde/)
 
 ---
+
+Name: Fernanda Bernardo
+
+Occupation: Software Engineer @[Elo7](https://elo7.dev) + [Help4Papers](https://help4papers.com.br)
+
+Tags: FrontEnd, UX, Communication / Speaker Skills
+
+Contact: 
+- [Site](https://fernandabernardo.com.br)
+
+---
+
 # ABOUT
 We want to provide a simple way to connect experienced and new speakers with communities and event organizers (especially event and communities related with tech)
 
