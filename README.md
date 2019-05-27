@@ -2,9 +2,9 @@
 
 # Country: Brasil
 
-# State: SP (São Paulo)
+# State: São Paulo
 
-## City: Campinas - SP 
+## City: Campinas
 
 Name: Everton Gago
 
@@ -37,18 +37,7 @@ Tags: Android
 Contact:
 - [LinkedIn](https://www.linkedin.com/in/diegogsantos/)
 
-## City: Rio de Janeiro - SP
-
-Name: Maurício Maujor
-
-Occupation: Divulgador dos Padrões Web
-
-Tags: CSS, HTML, Javascript
-
-Contact: 
-- [LinkedIn](https://www.linkedin.com/in/mauricio-maujor-800111a3/)
-
-## City: São Paulo - SP
+## City: São Paulo
 
 Name: Rodrigo Botti
 
@@ -117,7 +106,22 @@ Tags: FrontEnd, UX, Communication / Speaker Skills
 Contact: 
 - [Site](https://fernandabernardo.com.br)
 
-## City: Curitiba - PR
+# State: Rio de Janeiro
+
+## City: Rio de Janeiro
+
+Name: Maurício Maujor
+
+Occupation: Divulgador dos Padrões Web
+
+Tags: CSS, HTML, Javascript
+
+Contact: 
+- [LinkedIn](https://www.linkedin.com/in/mauricio-maujor-800111a3/)
+
+# State: Paraná
+
+## City: Curitiba
 
 Name: Patrick Stival Chaerke
 
@@ -146,4 +150,4 @@ Find in the list the Country, State and City that the speaker currently lives in
 
 **Tags**: *(topics the speaker talks about or is interested to talk about)*
 
-**Contact**: *(please, don't put private contact information (such as phone numbers), just professional contact information (such as linkedin))*
+**Contact**: *(please, don't put private contact information (such as phone numbers), just professional contact information (such as LinkedIn))*
