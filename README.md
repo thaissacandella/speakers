@@ -80,7 +80,8 @@ Occupation: Engineer Manager at @wirecardBrasil
 Tags: Frontend, Management, Vue.js, JavaScript, Career 
 
 Contact: 
-- [LinkedIn](https://www.linkedin.com/in/carladebona/)
+- [LinkedIn](https://www.linkedin.com/in/caio-incau-9a63a650/)
+- [Twitter](https://twitter.com/iCaioIncau)
 
 ---
 
