@@ -72,6 +72,18 @@ Contact:
 - [LinkedIn](https://www.linkedin.com/in/robertaarcoverde/)
 
 ---
+
+Name: Caio Incau
+
+Occupation: Engineer Manager at @wirecardBrasil
+
+Tags: Frontend, Management, Vue.js, JavaScript, Career 
+
+Contact: 
+- [LinkedIn](https://www.linkedin.com/in/carladebona/)
+
+---
+
 # ABOUT
 We want to provide a simple way to connect experienced and new speakers with communities and event organizers (especially event and communities related with tech)
 
