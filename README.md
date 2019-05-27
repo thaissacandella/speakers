@@ -117,6 +117,19 @@ Tags: FrontEnd, UX, Communication / Speaker Skills
 Contact: 
 - [Site](https://fernandabernardo.com.br)
 
+---
+
+Name: Victor Shinya
+
+Occupation: Developer Advocate @[IBM](https://ibm.com)
+
+Tags: Inteligência Artificial, Machine Learning, iOS (Objective-C & Swift), Android (Java & Kotlin), Golang, NodeJS, DevOps, API Management, Microservices, Docker, Kubernetes, Containers, Serverless, OpenWhisk.
+
+Contact:
+- [Linkedin](https://linkedin.com/in/victorshinya)
+- [Twitter](https://twitter.com/victorshinya)
+- [Email](mailto:vshinya@br.ibm.com)
+
 ## City: Curitiba - PR
 
 Name: Patrick Stival Chaerke
