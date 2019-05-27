@@ -72,6 +72,18 @@ Contact:
 - [LinkedIn](https://www.linkedin.com/in/robertaarcoverde/)
 
 ---
+
+Name: Lucas Santos
+
+Occupation: Lead Solutions Architect @ [Nextcode](https://nxcd.com.br)
+
+Tags: Backend, Javascript, NodeJS, Typescript, Infrastructure, Kubernetes, DevOps, Microservices, Docker, Containers
+
+Contact: 
+- [LinkedIn](https://www.linkedin.com/in/lhs-santos/)
+- [Website](https://lsantos.dev)
+
+---
 # ABOUT
 We want to provide a simple way to connect experienced and new speakers with communities and event organizers (especially event and communities related with tech)
 
