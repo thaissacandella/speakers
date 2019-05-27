@@ -26,6 +26,17 @@ Tags: GDE, Angular, Frontend Web
 Contact:
 - [LinkedIn](https://www.linkedin.com/in/keilla-menezes/)
 
+---
+
+Name: Diego Santos
+
+Occupation: Android Developer @ [Dextra](https://dextra.com.br/pt/)
+
+Tags: Android
+
+Contact:
+- [LinkedIn](https://www.linkedin.com/in/diegogsantos/)
+
 ## City: Rio de Janeiro - SP
 
 Name: Maurício Maujor
@@ -82,6 +93,40 @@ Tags: Frontend, Management, Vue.js, JavaScript, Career
 Contact: 
 - [LinkedIn](https://www.linkedin.com/in/caio-incau-9a63a650/)
 - [Twitter](https://twitter.com/iCaioIncau)
+
+---
+
+Name: Lucas Santos
+
+Occupation: Lead Solutions Architect @ [Nextcode](https://nxcd.com.br)
+
+Tags: Backend, Javascript, NodeJS, Typescript, Infrastructure, Kubernetes, DevOps, Microservices, Docker, Containers
+
+Contact: 
+- [LinkedIn](https://www.linkedin.com/in/lhs-santos/)
+- [Website](https://lsantos.dev)
+
+---
+
+Name: Fernanda Bernardo
+
+Occupation: Software Engineer @[Elo7](https://elo7.dev) + [Help4Papers](https://help4papers.com.br)
+
+Tags: FrontEnd, UX, Communication / Speaker Skills
+
+Contact: 
+- [Site](https://fernandabernardo.com.br)
+
+## City: Curitiba - PR
+
+Name: Patrick Stival Chaerke
+
+Occupation: Javascript Web Developer @ [Logcomex](https://www.linkedin.com/company/logcomex/)
+
+Tags: Javascript, Vue.js, Team Work, Pair Programming, Open-source Software
+
+Contact:
+- [LinkedIn](https://www.linkedin.com/in/trickstival/)
 
 ---
 
