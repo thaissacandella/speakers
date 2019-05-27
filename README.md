@@ -105,8 +105,18 @@ Tags: FrontEnd, UX, Communication / Speaker Skills
 Contact: 
 - [Site](https://fernandabernardo.com.br)
 
----
+## City: Curitiba - PR
 
+Name: Patrick Stival Chaerke
+
+Occupation: Javascript Web Developer @ [Logcomex](https://www.linkedin.com/company/logcomex/)
+
+Tags: Javascript, Vue.js, Team Work, Pair Programming, Open-source Software
+
+Contact:
+- [LinkedIn](https://www.linkedin.com/in/trickstival/)
+
+---
 # ABOUT
 We want to provide a simple way to connect experienced and new speakers with communities and event organizers (especially event and communities related with tech)
 
