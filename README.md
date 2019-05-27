@@ -26,6 +26,17 @@ Tags: GDE, Angular, Frontend Web
 Contact:
 - [LinkedIn](https://www.linkedin.com/in/keilla-menezes/)
 
+---
+
+Name: Diego Santos
+
+Occupation: Android Developer @ [Dextra](https://dextra.com.br/pt/)
+
+Tags: Android
+
+Contact:
+- [LinkedIn](https://www.linkedin.com/in/diegogsantos/)
+
 ## City: Rio de Janeiro - SP
 
 Name: Maurício Maujor
@@ -71,6 +82,17 @@ Tags: Backend, .NET, Architecture
 Contact: 
 - [LinkedIn](https://www.linkedin.com/in/robertaarcoverde/)
 
+---
+
+Name: Fernanda Bernardo
+
+Occupation: Software Engineer @[Elo7](https://elo7.dev) + [Help4Papers](https://help4papers.com.br)
+
+Tags: FrontEnd, UX, Communication / Speaker Skills
+
+Contact: 
+- [Site](https://fernandabernardo.com.br)
+
 ## City: Curitiba - PR
 
 Name: Patrick Stival Chaerke
@@ -83,7 +105,6 @@ Contact:
 - [LinkedIn](https://www.linkedin.com/in/trickstival/)
 
 ---
-
 # ABOUT
 We want to provide a simple way to connect experienced and new speakers with communities and event organizers (especially event and communities related with tech)
 
