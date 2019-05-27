@@ -84,6 +84,18 @@ Contact:
 
 ---
 
+Name: Lucas Santos
+
+Occupation: Lead Solutions Architect @ [Nextcode](https://nxcd.com.br)
+
+Tags: Backend, Javascript, NodeJS, Typescript, Infrastructure, Kubernetes, DevOps, Microservices, Docker, Containers
+
+Contact: 
+- [LinkedIn](https://www.linkedin.com/in/lhs-santos/)
+- [Website](https://lsantos.dev)
+
+---
+
 Name: Fernanda Bernardo
 
 Occupation: Software Engineer @[Elo7](https://elo7.dev) + [Help4Papers](https://help4papers.com.br)
