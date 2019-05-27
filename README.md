@@ -84,6 +84,18 @@ Contact:
 
 ---
 
+Name: Caio Incau
+
+Occupation: Engineer Manager at @wirecardBrasil
+
+Tags: Frontend, Management, Vue.js, JavaScript, Career 
+
+Contact: 
+- [LinkedIn](https://www.linkedin.com/in/caio-incau-9a63a650/)
+- [Twitter](https://twitter.com/iCaioIncau)
+
+---
+
 Name: Lucas Santos
 
 Occupation: Lead Solutions Architect @ [Nextcode](https://nxcd.com.br)
@@ -117,6 +129,7 @@ Contact:
 - [LinkedIn](https://www.linkedin.com/in/trickstival/)
 
 ---
+
 # ABOUT
 We want to provide a simple way to connect experienced and new speakers with communities and event organizers (especially event and communities related with tech)
 
