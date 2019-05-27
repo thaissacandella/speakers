@@ -26,6 +26,17 @@ Tags: GDE, Angular, Frontend Web
 Contact:
 - [LinkedIn](https://www.linkedin.com/in/keilla-menezes/)
 
+---
+
+Name: Diego Santos
+
+Occupation: Android Developer @ [Dextra](https://dextra.com.br/pt/)
+
+Tags: Android
+
+Contact:
+- [LinkedIn](https://www.linkedin.com/in/diegogsantos/)
+
 ## City: Rio de Janeiro - SP
 
 Name: Maurício Maujor
