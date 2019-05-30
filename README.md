@@ -154,8 +154,6 @@ Tags: Javascript, Vue.js, Team Work, Pair Programming, Open-source Software
 Contact:
 - [LinkedIn](https://www.linkedin.com/in/trickstival/)
 
----
-
 ## City: São José dos Campos - SP
 
 Name: Renato Romão
@@ -167,6 +165,18 @@ Tags: Office Add-Ins, Microsoft PowerApps, Microsoft Flow, SharePoint, SharePoin
 Contact: 
 - [LinkedIn](https://www.linkedin.com/in/renatoromao/)
 - renato.romao@hotmail.com
+
+## City: Jundiaí - SP
+
+Name: Mikaeri Ohana
+
+Occupation: Artificial Intelligence Consultant @ [Viceri](https://www.viceri.com.br/)
+
+Tags: Artificial Intelligence, Machine Learning, Deep Learning, .NET Architecture, Career, Speaker Skills, Personal Branding, Women in Technology, Communities.
+
+Contact: 
+- [LinkedIn](https://www.linkedin.com/in/mikaeriohana/)
+- mi_ohana@hotmail.com
 
 ---
 
