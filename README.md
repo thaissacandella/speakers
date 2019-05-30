@@ -37,6 +37,19 @@ Tags: Android
 Contact:
 - [LinkedIn](https://www.linkedin.com/in/diegogsantos/)
 
+## City: Jundiaí - SP
+
+Name: Gustavo Bellini Bigardi
+
+Occupation: Fullstack Developers @[Dextra](https://dextra.com.br/pt)
+
+Tags: Fullstack, .NET, NodeJS, Java, React, Software Architecture
+
+Contact:
+- [LinkedIn](https://www.linkedin.com/in/gbbigardi/)
+- [Twitter](https://twitter.com/gustavobigardi)
+- gbbigardi@gmail.com
+
 ## City: Rio de Janeiro - SP
 
 Name: Maurício Maujor
