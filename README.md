@@ -41,7 +41,7 @@ Contact:
 
 Name: Gustavo Bellini Bigardi
 
-Occupation: Fullstack Developers @[Dextra](https://dextra.com.br/pt)
+Occupation: Fullstack Developer @ [Dextra](https://dextra.com.br/pt)
 
 Tags: Fullstack, .NET, NodeJS, Java, React, Software Architecture
 
