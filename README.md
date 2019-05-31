@@ -178,6 +178,19 @@ Contact:
 - [LinkedIn](https://www.linkedin.com/in/mikaeriohana/)
 - mi_ohana@hotmail.com
 
+## City: Valinhos - SP
+
+Name: Matheus Castello
+
+Occupation: Embedded SW Engineer @ [Toradex](https://www.toradex.com/)
+
+Tags: Embedded Systems, Kernel Linux, Device Drivers, .NET, C/C++, JavaScript, Containers,
+IoT, ESP8266, ESP32, Arduino, ARM, RISC-V.
+
+Contact: 
+- [LinkedIn](https://www.linkedin.com/in/matheuscastello/)
+- matheus@castello.eng.br
+
 ---
 
 
