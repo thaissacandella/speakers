@@ -37,6 +37,19 @@ Tags: Android
 Contact:
 - [LinkedIn](https://www.linkedin.com/in/diegogsantos/)
 
+## City: Jundiaí - SP
+
+Name: Gustavo Bellini Bigardi
+
+Occupation: Fullstack Developer @ [Dextra](https://dextra.com.br/pt)
+
+Tags: Fullstack, .NET, NodeJS, Java, React, Software Architecture
+
+Contact:
+- [LinkedIn](https://www.linkedin.com/in/gbbigardi/)
+- [Twitter](https://twitter.com/gustavobigardi)
+- gbbigardi@gmail.com
+
 ## City: Rio de Janeiro - SP
 
 Name: Maurício Maujor
@@ -164,6 +177,19 @@ Tags: Artificial Intelligence, Machine Learning, Deep Learning, .NET Architectur
 Contact: 
 - [LinkedIn](https://www.linkedin.com/in/mikaeriohana/)
 - mi_ohana@hotmail.com
+
+## City: Valinhos - SP
+
+Name: Matheus Castello
+
+Occupation: Embedded SW Engineer @ [Toradex](https://www.toradex.com/)
+
+Tags: Embedded Systems, Kernel Linux, Device Drivers, .NET, C/C++, JavaScript, Containers,
+IoT, ESP8266, ESP32, Arduino, ARM, RISC-V.
+
+Contact: 
+- [LinkedIn](https://www.linkedin.com/in/matheuscastello/)
+- matheus@castello.eng.br
 
 ---
 
